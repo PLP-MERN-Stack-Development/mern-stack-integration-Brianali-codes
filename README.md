@@ -1,4 +1,4 @@
-<img width="1280" height="1024" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/6af1814c-66ab-452a-a7c2-63af2ae99d74" />This is a simple REST API for managing Posts using Node.js, Express, and MongoDB.
+This is a simple REST API for managing Posts using Node.js, Express, and MongoDB.
 
 Each Post has:
 
